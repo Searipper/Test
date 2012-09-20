@@ -17,6 +17,20 @@ class RecursionManager{
 	//*********************
 	//	constructor
 	//*********************
+	/*sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssssssssssssssssssssss
+	sssssssssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssssssssssssss
+	ssssssssssssssssssssssssss
+	sssssssssssssssssss
+	ssssssssss
+	sssss
+	*/
 
 	public RecursionManager(){}//end constructor
 	
