@@ -20,7 +20,7 @@ class RecursionMain{
 		
 		
 		//N Factorial
-		System.out.println("----------------N-Factorial----------------");
+		//System.out.println("----------------N-Factorial----------------");
 		RecursionManager p1 = new RecursionManager();
 		
 		System.out.println(p1.Nfactorial(12));
@@ -28,12 +28,12 @@ class RecursionMain{
 		System.out.println(p1.Nfactorial(-5));
 		
 		//Fibonatchi
-		System.out.println("----------------Fibo----------------");
+		//System.out.println("----------------Fibo----------------");
 		p1.fib(7);
 		System.out.println("number of times fib is called for fib7: "+p1.getFibCount());
 		
 		//Binary Search
-		System.out.println("-------------Binary-Search--------------");
+		//System.out.println("-------------Binary-Search--------------");
 		SortAndSearch<Integer> intArray=new SortAndSearch<Integer>();
 		intArray.setvalue(13);
 		intArray.setvalue(-8);
@@ -57,6 +57,14 @@ class RecursionMain{
 		index[2] = intArray.FindIndex(-88);
 		index[3] = intArray.FindIndex(85);
 		index[4] = intArray.FindIndex(49);
+		
+		System.out.println("Hey github check this out.");
+		/*
+		aaaaaaaaaaaaaaaaaaaaaaaaaaa
+		aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+		aaaaaaaaaaaaaaaaaaaaaaaaaaa
+		aaaaaaaaaaaaaaaaaaaaaaaaa
+		*/
 		
 		for(int i=0;i<5;i++){
 			if(index[i]!=-99)
