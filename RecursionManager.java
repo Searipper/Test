@@ -7,6 +7,9 @@
 */
 class RecursionManager{
 	
+	//unneeded comment here
+	//unneeded comment here
+	
 	//*********************
 	//variable decleration
 	//*********************
@@ -62,7 +65,7 @@ class RecursionManager{
 			return sum;
 		}
 	}//end Nfactorial
-	
+	//unneeded comment here
 //application b
 
 	public static int getFibCount(){return fibcount;}//returns fibcount
@@ -72,9 +75,9 @@ class RecursionManager{
 		int fibIM1, fibIM2,sum;
 		//this method is a recursive method calculating fibannachi numbers
 		System.out.println("in fib calculating "+index);
-		
+		//unneeded comment here
 		fibcount++;
-		
+		//unneeded comment here
 		if(index==0){
 			System.out.println("in fib returning 0");
 			return 0;
@@ -82,7 +85,7 @@ class RecursionManager{
 			if(index==1){
 			System.out.println("In fib returning 1");
 			return 1;
-		}else{
+		}else{//unneeded comment here
 			fibIM1=fib(index-1);
 			fibIM2=fib(index-2);
 			sum=fibIM1+fibIM2;
